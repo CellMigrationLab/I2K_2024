@@ -2,9 +2,9 @@
 
 I2K 2024 workshop materials for "Object Tracking and track analysis using TrackMate and CellTracksColab"
 
-**Instructors:**
+**Instructor:**
 
-Joanna Pylvänäinen, Åbo Akademi University, joanna.pylvanainen@abo.fi <br /> Hanna Grobe, Åbo Akademi University, hanna.grobe@abo.fi
+Joanna Pylvänäinen, Åbo Akademi University, joanna.pylvanainen@abo.fi 
 
 
 # Session 1: Lecture: Analysis of cell behavior using TrackMate and CellTracksColab
