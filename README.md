@@ -20,7 +20,7 @@ By the end of this workshop, participants will be familiar with TrackMate's trac
 -  An open-source FIJI/ImageJ plugin for tracking cells/particles in 2D microscopy images. 
 
 [**CellTracksColab**](https://github.com/CellMigrationLab/CellTracksColab): <br> 
-- A cloud-based platform for analyzing tracking data with no need for local software installations.
+- A cloud-based platform for analyzing tracking data.
 
 ---
 
