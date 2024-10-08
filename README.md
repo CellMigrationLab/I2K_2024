@@ -11,16 +11,18 @@ joanna.pylvanainen@abo.fi
 
 In life sciences, tracking objects within movies is crucial for quantifying the behaviour of particles, organelles, bacteria, cells, and entire organisms. However, tracking multiple objects across numerous movies and analysing the objects’ movements can be challenging. This workshop aims to demonstrate the effective utilization of **TrackMate** for object tracking across multiple movies through hands-on exercises. Additionally, participants will learn how to compile, analyse, and explore the acquired tracking data using the **CellTracksColab** platform. Both tools offer user-friendly interfaces tailored to life scientists without coding experience.
 
-### Software:
+## Software:
 [**TrackMate**](https://imagej.net/plugins/trackmate/): <br>
--  An open-source FIJI/ImageJ plugin for tracking cells/particles in 2D microscopy images. We'll briefly cover object detection, tracking algorithms (LAP, Kalman filter), and export options.
+-  An open-source FIJI/ImageJ plugin for tracking cells/particles in 2D microscopy images. 
 
 [**CellTracksColab**](https://github.com/CellMigrationLab/CellTracksColab): <br> 
-- A cloud-based platform for analyzing tracking data with no need for local software installations. Learn how to process large datasets using Google Colab and extract key metrics.
+- A cloud-based platform for analyzing tracking data with no need for local software installations. 
 
-Hands-on with TrackMate (25 minutes)
+## Hands-on with TrackMate and CellTracksColab
 
 ### Hands-On Task:
+In this demo we will create tracking settings to track objects in multiple movies and analyse the tracking results using CellTracksColab. 
+
 Downloads
 
 > [Image for tracking settings](https://abofi-my.sharepoint.com/:i:/g/personal/joanna_pylvanainen_abo_fi/ERvu_iiIWvBMo2Bnrk9bf7kB69vlmMwmCKNbxbDaP-1APQ?e=yqmxpc) <br>
