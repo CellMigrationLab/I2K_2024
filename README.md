@@ -46,16 +46,10 @@ Downloads
 2. Analyze **TrackMate output** in CellTracksColab.
 
 - Upload your tracking results to your Google Drive ([or use the pre-made dataset](https://abofi-my.sharepoint.com/:f:/g/personal/joanna_pylvanainen_abo_fi/EsvL0faXSb1BgtheKIK3phkBnvuCTzr05fXij3fDO7i_Hw?e=vVPtho))
-- Open CellTracksColab [TrackMate notebook](https://colab.research.google.com/github/guijacquemet/CellTracksColab/blob/main/Notebook/CellTracksColab_TrackMate.ipynb)
-- Make a copy to your drive 
+- Open CellTracksColab [TrackMate notebook](https://colab.research.google.com/github/guijacquemet/CellTracksColab/blob/main/Notebook/CellTracksColab_TrackMate.ipynb) and make a copy to your drive 
 - Run all cells visualize and to generate plots.
-- Interpret and analyze the biological insights from the tracking data.
-
-
 
 ---
-
-
 
 ## References
 TrackMate
