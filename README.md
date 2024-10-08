@@ -13,12 +13,16 @@ In life sciences, tracking objects within movies is crucial for quantifying the 
 
 By the end of this workshop, participants will be familiar with TrackMate's tracking capabilities, will have analyzed tracking data using CellTracksColab, and will know how to export and visualize their results for further research.
 
+---
+
 ## Software:
 [**TrackMate**](https://imagej.net/plugins/trackmate/): <br>
 -  An open-source FIJI/ImageJ plugin for tracking cells/particles in 2D microscopy images. 
 
 [**CellTracksColab**](https://github.com/CellMigrationLab/CellTracksColab): <br> 
-- A cloud-based platform for analyzing tracking data with no need for local software installations. 
+- A cloud-based platform for analyzing tracking data with no need for local software installations.
+
+---
 
 ## Hands-on with TrackMate and CellTracksColab
 
