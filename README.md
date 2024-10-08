@@ -7,9 +7,11 @@ I2K 2024 workshop materials for "Object Tracking and Track Analysis using TrackM
 Joanna Pylvänäinen, Åbo Akademi University  
 joanna.pylvanainen@abo.fi  
 
-## Workshop Overview (1 hour)
+## Workshop Overview
 
 In life sciences, tracking objects within movies is crucial for quantifying the behaviour of particles, organelles, bacteria, cells, and entire organisms. However, tracking multiple objects across numerous movies and analysing the objects’ movements can be challenging. This workshop aims to demonstrate the effective utilization of **TrackMate** for object tracking across multiple movies through hands-on exercises. Additionally, participants will learn how to compile, analyse, and explore the acquired tracking data using the **CellTracksColab** platform. Both tools offer user-friendly interfaces tailored to life scientists without coding experience.
+
+By the end of this workshop, participants will be familiar with TrackMate's tracking capabilities, will have analyzed tracking data using CellTracksColab, and will know how to export and visualize their results for further research.
 
 ## Software:
 [**TrackMate**](https://imagej.net/plugins/trackmate/): <br>
@@ -40,18 +42,16 @@ Downloads
 2. Analyze **TrackMate output** in CellTracksColab.
 
 - Upload your tracking results to your Google Drive ([or use the pre-made dataset](https://abofi-my.sharepoint.com/:f:/g/personal/joanna_pylvanainen_abo_fi/EsvL0faXSb1BgtheKIK3phkBnvuCTzr05fXij3fDO7i_Hw?e=vVPtho))
-- Open CellTracksColab TrackMate notebook 
-- **CellTracksColab**.
-- Generate **plots** and visualize large datasets.
+- Open CellTracksColab [TrackMate notebook](https://colab.research.google.com/github/guijacquemet/CellTracksColab/blob/main/Notebook/CellTracksColab_TrackMate.ipynb)
+- Make a copy to your drive 
+- Run all cells visualize and to generate plots.
 - Interpret and analyze the biological insights from the tracking data.
 
-> **[Link to CellTracksColab](https://github.com/CellMigrationLab/CellTracksColab)**  
-> **[Download Tracking Output](https://drive.google.com/drive/folders/1UcIp-HBMeizYnuVLvrC5zqIQbLAZYpxG?usp=sharing)**  
-> **[Link to Slides](https://drive.google.com/file/d/1P0s1Uy419S7hgleyeX3YkTN33DviiwVO/view?usp=sharing)**  
+
 
 ---
 
-By the end of this workshop, participants will be familiar with TrackMate's tracking capabilities, will have analyzed tracking data using CellTracksColab, and will know how to export and visualize their results for further research.
+
 
 ## References
 TrackMate
