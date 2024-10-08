@@ -50,10 +50,10 @@ By the end of this workshop, participants will be familiar with TrackMate's trac
 
 ## References
 TrackMate
-Ershov, D., Phan, M. S., Pylvänäinen, J. W., Rigaud, S. U., Le Blanc, L., Charles-Orszag, A., Conway, J. R. W., Laine, R. F., Roy, N. H., Bonazzi, D., Duménil, G., Jacquemet, G., & Tinevez, J. Y. (2022). TrackMate 7: integrating state-of-the-art segmentation algorithms into tracking pipelines. Nature methods, 19(7), 829–832. [https://doi.org/10.1038/s41592-022-01507-1](https://doi.org/10.1038/s41592-022-01507-1)
+Ershov, D., Phan, M. S., Pylvänäinen, J. W., Rigaud, S. U., Le Blanc, L., Charles-Orszag, A., Conway, J. R. W., Laine, R. F., Roy, N. H., Bonazzi, D., Duménil, G., Jacquemet, G., & Tinevez, J. Y. (2022). **TrackMate 7: integrating state-of-the-art segmentation algorithms into tracking pipelines.** Nature methods, 19(7), 829–832. [https://doi.org/10.1038/s41592-022-01507-1](https://doi.org/10.1038/s41592-022-01507-1)
 
 CellTracksColab
-Gómez-de-Mariscal, E., Grobe, H., Pylvänäinen, J. W., Xénard, L., Henriques, R., Tinevez, J. Y., & Jacquemet, G. (2024). CellTracksColab is a platform that enables compilation, analysis, and exploration of cell tracking data. PLoS biology, 22(8), e3002740. [https://doi.org/10.1371/journal.pbio.3002740](https://doi.org/10.1371/journal.pbio.3002740)
+Gómez-de-Mariscal, E., Grobe, H., Pylvänäinen, J. W., Xénard, L., Henriques, R., Tinevez, J. Y., & Jacquemet, G. (2024). **CellTracksColab is a platform that enables compilation, analysis, and exploration of cell tracking data.** PLoS biology, 22(8), e3002740. [https://doi.org/10.1371/journal.pbio.3002740](https://doi.org/10.1371/journal.pbio.3002740)
 
 T-Cell Dataset
-Guillaume Jacquemet. (2023). T cell dataset for CellTracksColab - 2 [Data set]. Zenodo. [https://doi.org/10.5281/zenodo.8420011](https://doi.org/10.5281/zenodo.8420011)
+Guillaume Jacquemet. (2023). **T cell dataset for CellTracksColab - 2** [Data set]. Zenodo. [https://doi.org/10.5281/zenodo.8420011](https://doi.org/10.5281/zenodo.8420011)
