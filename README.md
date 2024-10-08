@@ -50,6 +50,7 @@ Downloads
 
 - Open CellTracksColab [TrackMate notebook](https://colab.research.google.com/github/guijacquemet/CellTracksColab/blob/main/Notebook/CellTracksColab_TrackMate.ipynb) and make a copy to your drive 
 - Run all cells visualize and to generate plots.
+- Utilize advanced dimensionality reduction techniques to understand your data using [Dimensionality Reduction notebook](https://colab.research.google.com/github/guijacquemet/CellTracksColab/blob/main/Notebook/CellTracksColab_Dimensionality_Reduction.ipynb) 
 
 ---
 
