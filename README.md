@@ -15,7 +15,8 @@ In life sciences, tracking objects within movies is crucial for quantifying the 
 [**TrackMate**](https://imagej.net/plugins/trackmate/): <br>
 -  An open-source FIJI/ImageJ plugin for tracking cells/particles in 2D microscopy images. We'll briefly cover object detection, tracking algorithms (LAP, Kalman filter), and export options.
 
-[**CellTracksColab**](https://github.com/CellMigrationLab/CellTracksColab): <br> A cloud-based platform for analyzing tracking data with no need for local software installations. Learn how to process large datasets using Google Colab and extract key metrics.
+[**CellTracksColab**](https://github.com/CellMigrationLab/CellTracksColab): <br> 
+- A cloud-based platform for analyzing tracking data with no need for local software installations. Learn how to process large datasets using Google Colab and extract key metrics.
 
 Hands-on with TrackMate (25 minutes)
 
