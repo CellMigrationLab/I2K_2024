@@ -9,39 +9,28 @@ joanna.pylvanainen@abo.fi
 
 ## Workshop Overview (1 hour)
 
-This condensed workshop focuses on object tracking and track analysis using **TrackMate** and **CellTracksColab**. You will learn how to efficiently track cells and particles in microscopy data and analyze tracking results using these tools.
-
----
-
-## Session 1: Introduction and Overview (15 minutes)
+In life sciences, tracking objects within movies is crucial for quantifying the behaviour of particles, organelles, bacteria, cells, and entire organisms. However, tracking multiple objects across numerous movies and analysing the objects’ movements can be challenging. This workshop aims to demonstrate the effective utilization of **TrackMate** for object tracking across multiple movies through hands-on exercises. Additionally, participants will learn how to compile, analyse, and explore the acquired tracking data using the **CellTracksColab** platform. Both tools offer user-friendly interfaces tailored to life scientists without coding experience.
 
 ### Key Concepts:
 - **TrackMate**: An open-source FIJI/ImageJ plugin for tracking cells/particles in 2D microscopy images. We'll briefly cover object detection, tracking algorithms (LAP, Kalman filter), and export options.
 - **CellTracksColab**: A cloud-based platform for analyzing tracking data with no need for local software installations. Learn how to process large datasets using Google Colab and extract key metrics.
 
-### Workflow Overview:
-- Tracking in cell biology (motility, organelle movement).
-- Quick steps from data preparation to analysis with **TrackMate** and **CellTracksColab**.
-
-> **[Link to Lecture Slides](https://github.com/jpylvanainen/Image_analysis_course_24/blob/main/Presentations/Day4.1_Trackmate_lecture_2024.pdf)**
-
----
-
-## Session 2: Hands-on with TrackMate (25 minutes)
+Hands-on with TrackMate (25 minutes)
 
 ### Hands-On Task:
-- **Track T-cell data** using TrackMate.
+Downloads
+
+> [Dataset for tracking settings](https://abofi-my.sharepoint.com/:i:/g/personal/joanna_pylvanainen_abo_fi/ERvu_iiIWvBMo2Bnrk9bf7kB69vlmMwmCKNbxbDaP-1APQ?e=yqmxpc) <br>
+> [T-cell dataset](https://abofi-my.sharepoint.com/:f:/g/personal/joanna_pylvanainen_abo_fi/Eqq_uT6T5pNAsGPt6wKYlAQBTnQx4cxu6uAGb2SmiyFSlQ?e=kDtrcc) <br>
+> [Whole dataset]([T-cell dataset](https://abofi-my.sharepoint.com/:f:/g/personal/joanna_pylvanainen_abo_fi/Eqq_uT6T5pNAsGPt6wKYlAQBTnQx4cxu6uAGb2SmiyFSlQ?e=kDtrcc))
 
 ### Steps:
-- Define parameters in the **TrackMate interface**.
+1. Define parameters in the **TrackMate interface**
 - Use sample T-cell data to set tracking parameters.
 - **Save settings** as XML for batch processing.
 - Export tracking data (spot tables, track tables, movies).
 
-> **[Download Tracking Script](https://drive.google.com/file/d/1VMn8ehvezmtsUgmeqm7FkyQFAHm-UwyP/view?usp=drive_link)**  
-> **[Download Video Guide](https://drive.google.com/file/d/1XM86ExLCPQM8se7heTI9SI_jNJcPR_-_/view?usp=drive_link)**  
-> **[Download Tracking Dataset](https://drive.google.com/drive/folders/1QgwCfLysMCyodSnwkpVoGLC3e_Xr3x5J?usp=drive_link)**  
-
+2. 
 ---
 
 ## Session 3: Hands-on with CellTracksColab (20 minutes)
