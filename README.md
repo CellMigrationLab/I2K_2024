@@ -29,16 +29,19 @@ By the end of this workshop, participants will be familiar with TrackMate's trac
 ### Hands-On Task:
 In this demo we will create tracking settings to track objects in multiple movies and analyse the tracking results using CellTracksColab. 
 
-Downloads
+If you want to test the tools during the workshop please:
+
+**1. Download these datasets:**
 
 > [Image for tracking settings](https://abofi-my.sharepoint.com/:i:/g/personal/joanna_pylvanainen_abo_fi/ERvu_iiIWvBMo2Bnrk9bf7kB69vlmMwmCKNbxbDaP-1APQ?e=yqmxpc) <br>
 > [T-cell dataset (TrackMate batcher input)](https://abofi-my.sharepoint.com/:f:/g/personal/joanna_pylvanainen_abo_fi/Eqq_uT6T5pNAsGPt6wKYlAQBTnQx4cxu6uAGb2SmiyFSlQ?e=kDtrcc) <br>
 > [Tracking results (CellTracksColab input)](https://abofi-my.sharepoint.com/:f:/g/personal/joanna_pylvanainen_abo_fi/EsvL0faXSb1BgtheKIK3phkBnvuCTzr05fXij3fDO7i_Hw?e=CyfNCi) <br>
+
+Here is a back up dataset to with all analyses done. 
 > [Whole dataset](https://abofi-my.sharepoint.com/:f:/g/personal/joanna_pylvanainen_abo_fi/EmFrrkXC_R5Fq5rMFkBmmoABJQXFpE7kwXQ9z1lOYh_-OA?e=CIe7rj) (2,2 GB, backup)
 
-### Steps:
 
-**0. Prepare Fiji**
+**2. Prepare Fiji**
 - Open Fiji and activate TrackMate Helper update site. Restart Fiji.
 
 <table>
@@ -47,6 +50,9 @@ Downloads
   </tr>
 </table>
 
+**3. You need to have access to google drive** (personal or create one for the purpose of this course)
+
+### Steps:
 
 **1. Cell Tracking with TrackMate**
 - Define parameters in the **TrackMate interface**
