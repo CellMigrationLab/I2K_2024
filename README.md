@@ -37,17 +37,17 @@ Downloads
 
 ### Steps:
 
-0. Prepare Fiji
+**0. Prepare Fiji**
 - Open Fiji and activate TrackMate Helper update site. Restart Fiji. 
 
-1. Cell Tracking with TrackMate
+**1. Cell Tracking with TrackMate**
 - Define parameters in the **TrackMate interface**
 - Use [Image for tracking settings](https://abofi-my.sharepoint.com/:i:/g/personal/joanna_pylvanainen_abo_fi/ERvu_iiIWvBMo2Bnrk9bf7kB69vlmMwmCKNbxbDaP-1APQ?e=yqmxpc) to set tracking parameters.
 - **Save traking settings** as XML for batch processing.
 - **Batch process** all images from the [T-cell dataset](https://abofi-my.sharepoint.com/:f:/g/personal/joanna_pylvanainen_abo_fi/Eqq_uT6T5pNAsGPt6wKYlAQBTnQx4cxu6uAGb2SmiyFSlQ?e=kDtrcc) using the TrackMate batcher.
 - **Export tracking data** (spot tables, track tables, movies).
 
-2. Analyze **TrackMate output** in CellTracksColab.
+**2. Analyze TrackMate output in CellTracksColab.**
 
 - Upload your tracking results to your Google Drive ([or use the pre-made dataset](https://abofi-my.sharepoint.com/:f:/g/personal/joanna_pylvanainen_abo_fi/EsvL0faXSb1BgtheKIK3phkBnvuCTzr05fXij3fDO7i_Hw?e=vVPtho)). Make sure that the folders are correctly organized.
 <img width="722" alt="image" src="https://github.com/user-attachments/assets/30d5f2dc-125b-462e-a063-66c18a1763ee">
