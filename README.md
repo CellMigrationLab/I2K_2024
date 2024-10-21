@@ -29,7 +29,7 @@ By the end of this workshop, participants will be familiar with TrackMate's trac
 ### Hands-On Task:
 In this demo we will create tracking settings to track objects in multiple movies and analyse the tracking results using CellTracksColab. 
 
-If you want to test the tools during the workshop please:
+### If you want to test the tools during the workshop please do these before the workshop:
 
 **1. Download these datasets:**
 
