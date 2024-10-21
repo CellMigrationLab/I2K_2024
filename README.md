@@ -51,7 +51,7 @@ Here is a back up dataset to with all analyses done.
 
 **3. You need to have access to google drive** (personal or create one for the purpose of this course)
 
-### Steps:
+### Workshop step-by-step:
 
 **1. Cell Tracking with TrackMate**
 - Define parameters in the **TrackMate interface**
