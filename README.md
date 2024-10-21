@@ -36,6 +36,10 @@ Downloads
 > [Whole dataset](https://abofi-my.sharepoint.com/:f:/g/personal/joanna_pylvanainen_abo_fi/EmFrrkXC_R5Fq5rMFkBmmoABJQXFpE7kwXQ9z1lOYh_-OA?e=CIe7rj) (2,2 GB, backup)
 
 ### Steps:
+
+0. Prepare Fiji
+- Open Fiji and activate TrackMate Helper update site. Restart Fiji. 
+
 1. Cell Tracking with TrackMate
 - Define parameters in the **TrackMate interface**
 - Use [Image for tracking settings](https://abofi-my.sharepoint.com/:i:/g/personal/joanna_pylvanainen_abo_fi/ERvu_iiIWvBMo2Bnrk9bf7kB69vlmMwmCKNbxbDaP-1APQ?e=yqmxpc) to set tracking parameters.
