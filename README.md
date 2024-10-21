@@ -38,7 +38,9 @@ Downloads
 ### Steps:
 
 **0. Prepare Fiji**
-- Open Fiji and activate TrackMate Helper update site. Restart Fiji. 
+- Open Fiji and activate TrackMate Helper update site. Restart Fiji.
+  ![image](https://github.com/user-attachments/assets/bf27c70c-6ba2-4c3a-9ec3-a878563eae7e)
+
 
 **1. Cell Tracking with TrackMate**
 - Define parameters in the **TrackMate interface**
