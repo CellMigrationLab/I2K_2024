@@ -26,8 +26,6 @@ By the end of this workshop, participants will be familiar with TrackMate's trac
 
 ## Hands-on with TrackMate and CellTracksColab
 
-### Hands-On Task:
-
 ### If you want to test the tools during the workshop please do these before the workshop:
 
 **1. Download these datasets:**
@@ -51,7 +49,7 @@ Here is a back up dataset to with all analyses done.
 
 **3. You need to have access to google drive** (personal or create one for the purpose of this course)
 
-### Workshop step-by-step:
+## Workshop step-by-step:
 
 **1. Cell Tracking with TrackMate**
 - Define parameters in the **TrackMate interface**
