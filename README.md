@@ -58,7 +58,7 @@ By the end of this workshop, participants will be familiar with TrackMate's trac
 **1. Cell Tracking with TrackMate**
 - Define tracking parameters in the **TrackMate interface** useing the *image_for_tracking_settings* -image from the *0_Tracking_settings* folder.
 - **Save traking settings** as XML for batch processing.
-- **Batch process** all images from the *1_TrackMate_batcher_input.zip* using the TrackMate batcher.
+- **Batch process** all images from the *1_TrackMate_batcher_input* -folder using the TrackMate batcher.
 - **Export tracking data** (spot tables, track tables, movies).
 
 **2. Analyze TrackMate output in CellTracksColab.**
