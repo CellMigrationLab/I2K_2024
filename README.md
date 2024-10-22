@@ -38,7 +38,9 @@ By the end of this workshop, participants will be familiar with TrackMate's trac
 - 1_TrackMate_batcher_input.zip
 - 2_CellTracksColab_input.zip
 
-**2. Prepare Fiji**
+**2. Download and prepare Fiji**
+
+- [Download Fiji](https://fiji.sc/)
 - Open Fiji and activate TrackMate Helper update site. Restart Fiji.
 
 <table>
@@ -48,6 +50,8 @@ By the end of this workshop, participants will be familiar with TrackMate's trac
 </table>
 
 **3. You need to have access to google drive** (personal or create one for the purpose of this course)
+- Unzip the 2_CellTracksColab_input.zip and upload it to your google drive
+- Create a new folder on you google drive called Results
 
 ## Workshop step-by-step:
 
