@@ -56,15 +56,14 @@ By the end of this workshop, participants will be familiar with TrackMate's trac
 ## Workshop step-by-step:
 
 **1. Cell Tracking with TrackMate**
-- Define parameters in the **TrackMate interface**
-- Use [Image for tracking settings](https://abofi-my.sharepoint.com/:i:/g/personal/joanna_pylvanainen_abo_fi/ERvu_iiIWvBMo2Bnrk9bf7kB69vlmMwmCKNbxbDaP-1APQ?e=yqmxpc) to set tracking parameters.
+- Define tracking parameters in the **TrackMate interface** useing the *image_for_tracking_settings* -image from the *0_Tracking_settings* folder.
 - **Save traking settings** as XML for batch processing.
-- **Batch process** all images from the [T-cell dataset](https://abofi-my.sharepoint.com/:f:/g/personal/joanna_pylvanainen_abo_fi/Eqq_uT6T5pNAsGPt6wKYlAQBTnQx4cxu6uAGb2SmiyFSlQ?e=kDtrcc) using the TrackMate batcher.
+- **Batch process** all images from the *1_TrackMate_batcher_input.zip* using the TrackMate batcher.
 - **Export tracking data** (spot tables, track tables, movies).
 
 **2. Analyze TrackMate output in CellTracksColab.**
 
-- Upload your tracking results to your Google Drive ([or use the pre-made dataset](https://abofi-my.sharepoint.com/:f:/g/personal/joanna_pylvanainen_abo_fi/EsvL0faXSb1BgtheKIK3phkBnvuCTzr05fXij3fDO7i_Hw?e=vVPtho)). Make sure that the folders are correctly organized.
+- Upload your tracking results to your Google Drive. Make sure that the folders are correctly organized.
 
 <table>
   <tr>
@@ -72,10 +71,11 @@ By the end of this workshop, participants will be familiar with TrackMate's trac
   </tr>
 </table>
 
+- You can also use the pre-made CellTracksColab input from the *2_CellTracksColab_input* -folder
 - Create a folder for results
 - Open The [CellTracksColab TrackMate notebook](https://colab.research.google.com/github/guijacquemet/CellTracksColab/blob/main/Notebook/CellTracksColab_TrackMate.ipynb) and make a copy to your drive 
 - Run all cells visualize and to generate plots.
-- Utilize advanced dimensionality reduction techniques to understand your data using [Dimensionality Reduction notebook](https://colab.research.google.com/github/guijacquemet/CellTracksColab/blob/main/Notebook/CellTracksColab_Dimensionality_Reduction.ipynb) 
+- Bonus: Utilize advanced dimensionality reduction techniques to understand your data using [Dimensionality Reduction notebook](https://colab.research.google.com/github/guijacquemet/CellTracksColab/blob/main/Notebook/CellTracksColab_Dimensionality_Reduction.ipynb) 
 
 ---
 
