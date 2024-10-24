@@ -13,6 +13,8 @@ In life sciences, tracking objects within movies is crucial for quantifying the 
 
 By the end of this workshop, participants will be familiar with TrackMate's tracking capabilities, will have analyzed tracking data using CellTracksColab, and will know how to export and visualize their results for further research.
 
+[Worshops slides available here](https://github.com/CellMigrationLab/I2K_2024/blob/main/workshop-presentation/I2K_TrackMate-CellTracksColab.pdf)
+
 ---
 
 ## Software:
