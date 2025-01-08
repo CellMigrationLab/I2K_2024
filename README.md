@@ -7,6 +7,12 @@ I2K 2024 workshop materials for "Object Tracking and Track Analysis using TrackM
 Joanna Pylvänäinen, Åbo Akademi University  
 joanna.pylvanainen@abo.fi  
 
+## I2K 2024
+
+Check out the video:
+
+[![Watch the video](https://img.youtube.com/vi/fIE4i3G7L9Y/0.jpg)](https://www.youtube.com/watch?v=fIE4i3G7L9Y)
+
 ## Workshop Overview
 
 In life sciences, tracking objects within movies is crucial for quantifying the behaviour of particles, organelles, bacteria, cells, and entire organisms. However, tracking multiple objects across numerous movies and analysing the objects’ movements can be challenging. This workshop aims to demonstrate the effective utilization of **TrackMate** for object tracking across multiple movies through hands-on exercises. Additionally, participants will learn how to compile, analyse, and explore the acquired tracking data using the **CellTracksColab** platform. Both tools offer user-friendly interfaces tailored to life scientists without coding experience.
