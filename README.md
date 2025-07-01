@@ -38,7 +38,7 @@ By the end of this workshop, participants will be familiar with TrackMate's trac
 
 **1. Download these datasets:**
 
-[Link to Zenodo](https://zenodo.org/records/13969009)
+[Link to Zenodo](https://zenodo.org/records/14645477)
 
 <img width="843" alt="image" src="https://github.com/user-attachments/assets/99b48321-af84-4f64-b199-07ea84585e19">
 
